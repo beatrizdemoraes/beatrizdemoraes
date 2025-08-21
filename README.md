@@ -16,3 +16,5 @@
 </div>
 
 <img width="15%" src="https://github.com/user-attachments/assets/28b847f1-a31c-422c-85ca-a4614a0f5430" align=right>
+
+![snake animation](https://github.com/beatrizdemoraes/beatrizdemoraes/blob/output/github-contribution-grid-snake.svg)
