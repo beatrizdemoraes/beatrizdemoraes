@@ -1,4 +1,4 @@
-##  𓆩♡𓆪 Oi! Eu sou a Beatriz Moraes
+##  𓆩♡𓆪 Oi! Eu sou a Beatriz
  ︵‿︵‿୨♡୧‿︵‿︵
 
 <div>
